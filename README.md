@@ -1,6 +1,6 @@
 # Flask Mock Code Challenge
 
-## For this code challenge we will be working with a Cake Bakery domain.  A Cake belongs to many bakeries through cake bakeries, a bakery has many cakes through cake bakeries, and a cake bakery belongs to a cake and to a bakery.  You will have to build out your models and routes and test your app using Postman.  Below is an entity diagram of the models.  
+### For this code challenge we will be working with a Cake Bakery domain.  A Cake belongs to many bakeries through cake bakeries, a bakery has many cakes through cake bakeries, and a cake bakery belongs to a cake and to a bakery.  You will have to build out your models and routes and test your app using Postman.  Below is an entity diagram of the models.  
   
 
 !["entity diagram"](./images/Cake-Bakery-Entity-Diagram.svg "Entity Diagram")
