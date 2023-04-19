@@ -90,7 +90,7 @@ Delete the bakery with the specified id. If not found return an error message wi
 
 Get all cakes.
 
-### POST "cake_bakery"
+### POST "/cake_bakery"
 
 Send a request with data in the following format to create a cake_bakery and save it to the database.
 
@@ -108,7 +108,7 @@ If cake_bakery is successfully created and saved to the database return a respon
     {
         id:1,
         name:"chocolate cake",
-        description:"delicious chocolate cake
+        description:"delicious chocolate cake"
     }
 ```
 
